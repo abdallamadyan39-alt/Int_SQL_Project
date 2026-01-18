@@ -8,8 +8,14 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 2. **Cohort Analysis:** How do different customer groups generate revenue? 
 3. **Retention Analysis:** Which customers haven't purchased recently?
 
- ## Analysis Approach
+## Clean Up Data
+Query: [0_Create_View.sql](/0_Create_View.sql)
 
+- Aggregated sales and customer data into revenue metrics
+- Calculated first purchase dates for cohort analysis
+- Created view combining transactions and customer details
+
+ ## Analysis Approach
 
  ### 1. Customer Segmentation Analysis
  - Categorized customers based on toal lifetime value (ltv)
