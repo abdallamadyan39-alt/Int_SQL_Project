@@ -102,5 +102,5 @@ Query: [3_relention_analysis.sql](/3_retention_analysis.sql)
 
 ## Technical Details
 - **Database:** PostegreSQL
-- **Analysis Tools:** PostgreSQL
+- **Analysis Tools:** PostgreSQL , DBeaver , PGadmin
 - **Visualization:** ChatGPT 
